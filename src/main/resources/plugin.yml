@@ -1,0 +1,4 @@
+name: stAutoMessage
+version: '${project.version}'
+main: pt.joelcosta.stautomessage.Main
+author: start.dev

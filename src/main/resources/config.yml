@@ -1,0 +1,5 @@
+Delay: 5 # em segundos exemplo: 1 min -> 60
+Messages: # adicione quantas mensagens quiser | para colocar cor use &<codigo>
+  - 'Olá mundo!'
+  - 'Isto é uma mensagem automática'
+  - 'Vai rebola o bumbum'
